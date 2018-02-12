@@ -1,0 +1,7 @@
+body{background-image: url("organic.jpeg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;}
+div{
+  width: 800px;
+}

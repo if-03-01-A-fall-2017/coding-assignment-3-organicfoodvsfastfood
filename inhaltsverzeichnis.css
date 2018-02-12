@@ -1,0 +1,21 @@
+body {
+  background-image: url("index.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;}
+  h1{color:green;}
+
+.box {
+    background: lightgrey;
+    border-radius: 6px;
+    cursor: pointer;
+    line-height: 20px;
+    text-align: center;
+    transition-property: background;
+    transition-duration: 1.5s;
+    transition-timing-function:ease-in;
+    width: 200px;
+  }
+  .box:hover {
+    background: lightgreen;
+  }
