@@ -1,0 +1,3 @@
+https://wiki.selfhtml.org/wiki/JavaScript/Web_Storage
+
+http://kelut.at/formulardaten-im-localstorage-speichern/
